@@ -118,7 +118,7 @@ class getClipper extends CustomClipper<Path> {
 // To control the vertical level / height of the clipper
     path.lineTo(-750.0, size.height / 1.0);
 
-    path.lineTo(size.width + 300.0, 0.0);
+    path.lineTo(size.width + 200.0, 0.0);
     path.close();
     return path;
   }
