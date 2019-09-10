@@ -67,7 +67,7 @@ class MiCardApp extends StatelessWidget {
                 ),
                 SizedBox(
                   height: 20.0,
-                  width: 10.0,
+                  width: 100.0,
                   child: Divider(color: Colors.teal),
                 ),
 //Phone no container

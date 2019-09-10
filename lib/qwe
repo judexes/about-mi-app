@@ -1,0 +1,15 @@
+
+Icon(
+Icons.mail,
+color: Color(0xFF8BC34A),
+),
+SizedBox(
+width: 10.0,
+),
+Text(
+"judeokoroafor@gmail.com",
+textAlign: TextAlign.center,
+style: TextStyle(
+fontFamily: 'Roboto',
+fontWeight: FontWeight.w300),
+),
